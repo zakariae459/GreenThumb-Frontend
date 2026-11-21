@@ -1,5 +1,5 @@
 # GreenthumbAPP
-Projet d'application web pour 2eme année de génie logiciel
+Projet d'application web pour 2eme année de génie informatique
 Interface utilisateur React pour l’application GreenThumb.
 
 ---
@@ -16,7 +16,7 @@ Interface utilisateur React pour l’application GreenThumb.
 1. **Cloner le dépôt**
 
 ```bash
-git clone https://github.com/redahmd/Greenthumb-APP.git
+git clone https://github.com/zakaria459/Greenthumb-APP.git
 cd Greenthumb-APP
 
 Installer les dépendances:
