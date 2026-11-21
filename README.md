@@ -16,8 +16,8 @@ Interface utilisateur React pour l’application GreenThumb.
 1. **Cloner le dépôt**
 
 ```bash
-git clone https://github.com/zakariae459/Greenthumb-APP.git
-cd Greenthumb-APP
+git clone https://github.com/zakariae459/GreenThumb-Frontend.git
+cd GreenThumb-Frontend
 
 Installer les dépendances:
 npm install
